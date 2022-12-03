@@ -14,4 +14,6 @@
   <li>Styled-components </li>
   <li>Express </li>
   <li>Socket.io </li>
+  <li>React-form</li>
+  <li>React-hooks</li>
  </ul>
